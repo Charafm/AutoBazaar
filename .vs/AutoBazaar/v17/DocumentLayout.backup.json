@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\repos\\AutoBazaar\\AutoBazaar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|g:\\repos\\autobazaar\\autobazaar\\autobazaar.client\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|solutionrelative:autobazaar.client\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|g:\\repos\\autobazaar\\autobazaar\\autobazaar.client\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|solutionrelative:autobazaar.client\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|g:\\repos\\autobazaar\\autobazaar\\autobazaar.client\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|solutionrelative:autobazaar.client\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|g:\\repos\\autobazaar\\autobazaar\\autobazaar.client\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|solutionrelative:autobazaar.client\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|g:\\repos\\autobazaar\\autobazaar\\autobazaar.client\\src\\app\\app-routing-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|solutionrelative:autobazaar.client\\src\\app\\app-routing-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|g:\\repos\\autobazaar\\autobazaar\\autobazaar.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|solutionrelative:autobazaar.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|g:\\repos\\autobazaar\\autobazaar\\autobazaar.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8B5EFBCA-C5AD-5427-2DB7-8F0AEF5CD637}|AutoBazaar.Client\\AutoBazaar.Client.esproj|solutionrelative:autobazaar.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app-routing-module.ts",
+              "DocumentMoniker": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\app\\app-routing-module.ts",
+              "RelativeDocumentMoniker": "AutoBazaar.Client\\src\\app\\app-routing-module.ts",
+              "ToolTip": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\app\\app-routing-module.ts",
+              "RelativeToolTip": "AutoBazaar.Client\\src\\app\\app-routing-module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-06T17:09:53.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app-module.ts",
+              "DocumentMoniker": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\app\\app-module.ts",
+              "RelativeDocumentMoniker": "AutoBazaar.Client\\src\\app\\app-module.ts",
+              "ToolTip": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\app\\app-module.ts",
+              "RelativeToolTip": "AutoBazaar.Client\\src\\app\\app-module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-06T17:09:43.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.html",
+              "DocumentMoniker": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "AutoBazaar.Client\\src\\app\\app.html",
+              "ToolTip": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\app\\app.html",
+              "RelativeToolTip": "AutoBazaar.Client\\src\\app\\app.html",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAPsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-06T17:08:39.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.spec.ts",
+              "DocumentMoniker": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\app\\app.spec.ts",
+              "RelativeDocumentMoniker": "AutoBazaar.Client\\src\\app\\app.spec.ts",
+              "ToolTip": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\app\\app.spec.ts",
+              "RelativeToolTip": "AutoBazaar.Client\\src\\app\\app.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-06T17:07:17.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\index.html",
+              "RelativeDocumentMoniker": "AutoBazaar.Client\\src\\index.html",
+              "ToolTip": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\index.html",
+              "RelativeToolTip": "AutoBazaar.Client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-06T17:07:13.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.ts",
+              "DocumentMoniker": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\main.ts",
+              "RelativeDocumentMoniker": "AutoBazaar.Client\\src\\main.ts",
+              "ToolTip": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\main.ts",
+              "RelativeToolTip": "AutoBazaar.Client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-06T17:07:08.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.ts",
+              "DocumentMoniker": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "AutoBazaar.Client\\src\\app\\app.ts",
+              "ToolTip": "G:\\repos\\AutoBazaar\\AutoBazaar\\AutoBazaar.Client\\src\\app\\app.ts",
+              "RelativeToolTip": "AutoBazaar.Client\\src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-06T17:07:02.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 531,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 488,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
