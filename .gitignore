@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AutoBazaar/CopilotIndices/17.14.995.13737
+/.vs/AutoBazaar/DesignTimeBuild
+/.vs/AutoBazaar/v17/.futdcache.v2
+/.vs/AutoBazaar/v17/.suo
+/.vs/AutoBazaar/v17/DocumentLayout.backup.json
+/.vs/AutoBazaar/v17/DocumentLayout.json
+/.vs/AutoBazaar/v17/ResourceExplorer/settings.json
+/.vs/AutoBazaar/copilot-chat/f7bfc58b/sessions/0328ba55-eeba-41ec-af42-016e12cc2d78
+/.vs/AutoBazaar/copilot-chat/f7bfc58b/sessions/2b22049d-6667-4894-a51d-257218351789
+/.vs/AutoBazaar/copilot-chat/f7bfc58b/sessions/f9904f4a-6d11-4ed2-bc5f-6ad18e251fa9
+/.vs/AutoBazaar/FileContentIndex/2f35a7e7-320d-4d52-afa7-da0db33bb7df.vsidx
+/.vs/AutoBazaar/FileContentIndex/5c75dfb2-4405-4038-9acb-40a1190e1d95.vsidx
+/.vs/AutoBazaar/FileContentIndex/5f36491b-7b3b-40f5-9e20-ff3470ea4020.vsidx
+/.vs/AutoBazaar/FileContentIndex/63623b73-01ab-497d-b4dc-f706cba36973.vsidx
+/.vs/AutoBazaar/FileContentIndex/68880689-dfd9-47a6-8a8b-83e8f126a90b.vsidx
+/.vs/AutoBazaar/FileContentIndex/a153ae93-65ca-4584-829b-5a7a5a480f9b.vsidx
+/.vs/AutoBazaar/FileContentIndex/af8dc1b0-42dc-4db0-9e26-b6d8723eb929.vsidx
+/.vs/ProjectEvaluation/autobazaar.metadata.v9.bin
+/.vs/ProjectEvaluation/autobazaar.projects.v9.bin
+/.vs/ProjectEvaluation/autobazaar.strings.v9.bin

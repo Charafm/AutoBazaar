@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AutoBazaar.Common.Domain/1.0.0": {
+        "runtime": {
+          "AutoBazaar.Common.Domain.dll": {}
+        },
+        "resources": {
+          "en/AutoBazaar.Common.Domain.resources.dll": {
+            "locale": "en"
+          },
+          "fr/AutoBazaar.Common.Domain.resources.dll": {
+            "locale": "fr"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoBazaar.Common.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
