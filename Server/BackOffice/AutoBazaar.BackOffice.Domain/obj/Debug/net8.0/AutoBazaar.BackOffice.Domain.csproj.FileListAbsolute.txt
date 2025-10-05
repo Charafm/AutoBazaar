@@ -1,0 +1,12 @@
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\bin\Debug\net8.0\AutoBazaar.BackOffice.Domain.deps.json
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\bin\Debug\net8.0\AutoBazaar.BackOffice.Domain.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\bin\Debug\net8.0\AutoBazaar.BackOffice.Domain.pdb
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\AutoBazaar.BackOffice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\AutoBazaar.BackOffice.Domain.AssemblyInfoInputs.cache
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\AutoBazaar.BackOffice.Domain.AssemblyInfo.cs
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\AutoBazaar.BackOffice.Domain.csproj.CoreCompileInputs.cache
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\AutoBazaar.BackOffice.Domain.sourcelink.json
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\AutoBazaar.BackOffice.Domain.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\refint\AutoBazaar.BackOffice.Domain.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\AutoBazaar.BackOffice.Domain.pdb
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\ref\AutoBazaar.BackOffice.Domain.dll
