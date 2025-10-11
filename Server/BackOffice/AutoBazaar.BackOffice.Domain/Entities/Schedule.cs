@@ -1,4 +1,5 @@
 ﻿using AutoBazaar.Common.Domain.BaseEntities;
+using AutoBazaar.Common.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
