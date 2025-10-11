@@ -1,4 +1,5 @@
-﻿using AutoBazaar.Common.Domain.BaseEntities;
+﻿using AutoBazaar.BackOffice.Domain.Entities.Translation;
+using AutoBazaar.Common.Domain.BaseEntities;
 using AutoBazaar.Common.Domain.Enums;
 using AutoBazaar.Common.Domain.ValueObjects;
 using System;
@@ -9,22 +10,25 @@ using System.Threading.Tasks;
 
 namespace AutoBazaar.BackOffice.Domain.Entities
 {
-    public class Vehicle : BaseEntity<Guid>
+    public class Vehicle : BaseEntity<Guid> 
     {
-        public Guid OwnerId { get; set; }            // FK to FleetOwner / User
-        public string VIN { get; set; } = null!;     // unique
+        public Guid OwnerId { get; set; }
+        public string VIN { get; set; } = null!;
         public string? LicensePlate { get; set; }
-        public VehicleSpecs Specs { get; set; } = null!; // Value Object (Owned)
-        public GeoLocation? Location { get; set; }   // Owned VO
-        public int CurrentOdometer { get; set; }     // last known
-        public VehicleStatus Status { get; set; }    // enum
-        public Guid? CurrentBookingId { get; set; }  // optional
+        public DateTime RegistrationDateUtc { get; set; }
+        public DateTime? RetireDateUtc { get; set; }
+        public VehicleSpecs Specs { get; set; } = null!;
+        public GeoLocation? Location { get; set; }
+        public int CurrentOdometer { get; set; }
+        public VehicleStatus Status { get; set; }
+        public Guid? CurrentBookingId { get; set; }
+        public int ServiceCount { get; set; }
+        public DateTime? LastServicedAtUtc { get; set; }
+        public Money? BookValue { get; set; }
 
-        // Collections
         public List<InspectionReport> Inspections { get; set; } = new();
         public List<MaintenanceRecord> MaintenanceRecords { get; set; } = new();
-
-        // Soft delete, audit, RowVersion are on BaseEntity
     }
+
 
 }

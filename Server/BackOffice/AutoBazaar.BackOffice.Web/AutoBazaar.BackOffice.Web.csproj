@@ -15,4 +15,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\AutoBazaar.Common.Domain\AutoBazaar.Common.Domain.csproj" />
+    <ProjectReference Include="..\..\Common\AutoBazaar.Common.Web\AutoBazaar.Common.Web.csproj" />
+  </ItemGroup>
+
 </Project>

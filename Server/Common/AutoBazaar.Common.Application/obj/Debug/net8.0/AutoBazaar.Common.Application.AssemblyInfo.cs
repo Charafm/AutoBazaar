@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoBazaar.Common.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba1843f174db785e24140cbcc6558b58a2e71cf5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba5ed81d783b69ebf22a18a7e7e610c475a51e27")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoBazaar.Common.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoBazaar.Common.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,3 +1,6 @@
+using AutoBazaar.Common.Domain.BaseEntities;
+using System.Security.Cryptography;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -35,9 +38,43 @@ app.MapGet("/weatherforecast", () =>
 })
 .WithName("GetWeatherForecast")
 .WithOpenApi();
+app.MapPut("/testMulti", () =>
+{
+    var entity = new TestEntity();
+    return Results.Ok(entity); // return 200 with the object
+})
+.WithName("testMulti")
+.WithOpenApi();
 
 app.Run();
 
+// Ensure TestTranslation inherits from IEntityTranslation in the correct namespace
+public class TestTranslation : IEntityTranslation
+{
+    public Guid Id { get; set; } = Guid.NewGuid();
+    public string? Language { get; set; }
+    public string? Value { get; set; }
+
+    // Implement the required LanguageCode property from IEntityTranslation
+    public string LanguageCode
+    {
+        get => Language ?? string.Empty;
+        set => Language = value;
+    }
+}
+
+// The entity uses BaseMultiLingualEntity<TTranslation>
+public class TestEntity : BaseMultiLingualEntity<TestTranslation,Guid>
+{
+    public string Name { get; set; } = "sample";
+
+    public TestEntity()
+    {
+        // Provide at least one translation to test Translations list
+        Translations.Add(new TestTranslation { Language = "en", Value = "Sample EN" });
+        Translations.Add(new TestTranslation { Language = "fr", Value = "Exemple FR" });
+    }
+}
 internal record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 {
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);

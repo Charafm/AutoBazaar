@@ -32,7 +32,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Domain\\AutoBazaar.Common.Domain.csproj": {
+                "projectPath": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Domain\\AutoBazaar.Common.Domain.csproj"
+              },
+              "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Web\\AutoBazaar.Common.Web.csproj": {
+                "projectPath": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Web\\AutoBazaar.Common.Web.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -79,6 +86,329 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Application\\AutoBazaar.Common.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Application\\AutoBazaar.Common.Application.csproj",
+        "projectName": "AutoBazaar.Common.Application",
+        "projectPath": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Application\\AutoBazaar.Common.Application.csproj",
+        "packagesPath": "C:\\Users\\chara\\.nuget\\packages\\",
+        "outputPath": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Domain\\AutoBazaar.Common.Domain.csproj": {
+                "projectPath": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Domain\\AutoBazaar.Common.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Behaviors.Authorization": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.AspNet.WebPages": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Localization.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Domain\\AutoBazaar.Common.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Domain\\AutoBazaar.Common.Domain.csproj",
+        "projectName": "AutoBazaar.Common.Domain",
+        "projectPath": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Domain\\AutoBazaar.Common.Domain.csproj",
+        "packagesPath": "C:\\Users\\chara\\.nuget\\packages\\",
+        "outputPath": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Web\\AutoBazaar.Common.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Web\\AutoBazaar.Common.Web.csproj",
+        "projectName": "AutoBazaar.Common.Web",
+        "projectPath": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Web\\AutoBazaar.Common.Web.csproj",
+        "packagesPath": "C:\\Users\\chara\\.nuget\\packages\\",
+        "outputPath": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Application\\AutoBazaar.Common.Application.csproj": {
+                "projectPath": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Application\\AutoBazaar.Common.Application.csproj"
+              },
+              "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Domain\\AutoBazaar.Common.Domain.csproj": {
+                "projectPath": "G:\\repos\\AutoBazaar\\AutoBazaar\\Server\\Common\\AutoBazaar.Common.Domain\\AutoBazaar.Common.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Autofac.Multitenant": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.Extensions.Hosting.Systemd": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.6.1, )"
+            },
+            "NSwag.Core": {
+              "target": "Package",
+              "version": "[14.6.1, )"
+            },
+            "NSwag.Generation": {
+              "target": "Package",
+              "version": "[14.6.1, )"
+            },
+            "NSwag.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[14.6.1, )"
+            },
+            "OpenIddict": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "OpenIddict.Abstractions": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "Quartz.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -16,9 +16,11 @@ namespace AutoBazaar.BackOffice.Domain.Entities
         public Money Amount { get; set; } = null!;
         public decimal Fees { get; set; }
         public PaymentStatus Status { get; set; }
+        public PaymentMethod Method { get; set; }
         public EscrowStatus EscrowStatus { get; set; }
         public string? PspTransactionId { get; set; } // unique id from PSP
         public string? SettlementBatchId { get; set; }
+        public string ExternalResponseJson { get; set; } = null!; // raw response from PSP
     }
 
 }

@@ -10,3 +10,9 @@ G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\ob
 G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\refint\AutoBazaar.BackOffice.Domain.dll
 G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\AutoBazaar.BackOffice.Domain.pdb
 G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\ref\AutoBazaar.BackOffice.Domain.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\bin\Debug\net8.0\AutoBazaar.Common.Domain.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\bin\Debug\net8.0\AutoBazaar.Common.Domain.pdb
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\bin\Debug\net8.0\en\AutoBazaar.Common.Domain.resources.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\bin\Debug\net8.0\fr\AutoBazaar.Common.Domain.resources.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\AutoBazaar.BackOffice.Domain.csproj.AssemblyReference.cache
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Domain\obj\Debug\net8.0\AutoBaza.FD9E903C.Up2Date

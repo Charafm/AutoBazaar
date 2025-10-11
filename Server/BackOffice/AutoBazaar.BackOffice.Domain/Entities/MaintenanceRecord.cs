@@ -16,6 +16,7 @@ namespace AutoBazaar.BackOffice.Domain.Entities
         public Money? Cost { get; set; }
         public string? Vendor { get; set; }
         public bool IsWarranty { get; set; }
+        public Guid? RelatedInvoiceId { get; set; } // Link to an invoice if applicable
     }
 
 }

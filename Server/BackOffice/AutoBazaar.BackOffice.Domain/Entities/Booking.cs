@@ -21,9 +21,11 @@ namespace AutoBazaar.BackOffice.Domain.Entities
         public string? IdempotencyKey { get; set; }      // nullable, unique where not null (partial index)
         public Guid? PaymentId { get; set; }
         public string? CancellationReason { get; set; }
-
-        // convenience property for domain
+        public Guid? DisputeId { get; set; } // link to dispute if any
+        public InspectionCheckpoint PickupInspection { get; set; } = null!; // Owned VO
+        public InspectionCheckpoint ReturnInspection { get; set; } = null!; // Owned VO
         public TimeSpan Duration => EndUtc - StartUtc;
+
     }
 
 }
