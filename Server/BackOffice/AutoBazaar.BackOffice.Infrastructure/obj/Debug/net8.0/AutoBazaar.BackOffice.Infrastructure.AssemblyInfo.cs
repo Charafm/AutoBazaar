@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoBazaar.BackOffice.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba1843f174db785e24140cbcc6558b58a2e71cf5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e39cf0295f4b8b9850db5b4f2f2f09fa82553dbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoBazaar.BackOffice.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoBazaar.BackOffice.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,5 @@
 ﻿using AutoBazaar.Common.Application.Interfaces;
+using AutoBazaar.Common.Application.Interfaces.Storage;
 using AutoBazaar.Common.Domain.Config;
 using AutoBazaar.Common.Domain.Constants;
 using AutoBazaar.Common.Infrastructure.Context;
@@ -44,7 +45,7 @@ namespace AutoBazaar.Common.Infrastructure
 
             services.AddScoped<ITenantAccessor, TenantAccessor>();
             services.AddTransient<IDateTime, DateTimeService>();
-            services.AddTransient<IStorage, LocalStorage>();
+            services.AddTransient<IStorageService, LocalStorage>();
             services.AddTransient<ICacheService, CacheService>();
             //services.AddTransient<IMediaService, MediaService>();
             //services.AddScoped<ITemplateToStringRenderer, RazorViewToStringRenderer>();

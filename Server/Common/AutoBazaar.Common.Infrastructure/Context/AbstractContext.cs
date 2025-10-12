@@ -1,4 +1,5 @@
 ﻿using AutoBazaar.Common.Application.Interfaces;
+using AutoBazaar.Common.Application.Interfaces.Storage;
 using AutoBazaar.Common.Application.Specialization;
 using AutoBazaar.Common.Domain.BaseEntities;
 using AutoBazaar.Common.Domain.Entities;
@@ -19,13 +20,13 @@ namespace AutoBazaar.Common.Infrastructure.Context
         private readonly ITenantAccessor _tenantAccessor;
         private readonly ICurrentUserService _currentUserService;
         private readonly IDateTime _dateTime;
-        private readonly IStorage _storage;
+        private readonly IStorageService _storage;
         private readonly ICacheService _cacheService;
         private IDbContextTransaction? _currentTransaction;
 
         protected AbstractContext(ITenantAccessor tenantAccessor,
             ICurrentUserService currentUserService,
-            IDateTime dateTime, IStorage storage, ICacheService cacheService, DbContextOptions<TContext> options) : base(options)
+            IDateTime dateTime, IStorageService storage, ICacheService cacheService, DbContextOptions<TContext> options) : base(options)
         {
             using var loggerFactory = LoggerFactory.Create(builder =>
             {

@@ -1,4 +1,5 @@
 ﻿using AutoBazaar.Common.Application.Interfaces;
+using AutoBazaar.Common.Application.Interfaces.Storage;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Options;
 using System;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace AutoBazaar.Common.Infrastructure.Services
 {
-    public class LocalStorage : IStorage
+    public class LocalStorage : IStorageService
     {
         //    private readonly NfsOptions _nfsOptions;
         //    private bool _useBackup;
@@ -171,52 +172,48 @@ namespace AutoBazaar.Common.Infrastructure.Services
         //        GC.SuppressFinalize(this);
         //    }
         #region notimplemented
-        Task<string> IStorage.CreateFolderAsync(string absolutePath, string folderRelativePath)
+        Task<string> IStorageService.CreateFolderAsync(string absolutePath, string folderRelativePath)
         {
             throw new NotImplementedException();
         }
 
-        Task<bool> IStorage.DeleteFileAsync(string fileAbsolutePath)
+        Task<bool> IStorageService.DeleteFileAsync(string fileAbsolutePath)
         {
             throw new NotImplementedException();
         }
 
-        Task<bool> IStorage.DeleteFolderAsync(string absolutePath, string folderRelativePath)
+        Task<bool> IStorageService.DeleteFolderAsync(string absolutePath, string folderRelativePath)
         {
             throw new NotImplementedException();
         }
 
-        void IDisposable.Dispose()
+       
+        Task<byte[]?> IStorageService.GetFileAsBytesAsync(string fileAbsolutePath)
         {
             throw new NotImplementedException();
         }
 
-        Task<byte[]?> IStorage.GetFileAsBytesAsync(string fileAbsolutePath)
+        Task<Stream?> IStorageService.GetFileAsync(string fileAbsolutePath)
         {
             throw new NotImplementedException();
         }
 
-        Task<Stream?> IStorage.GetFileAsync(string fileAbsolutePath)
+        Task<List<string>> IStorageService.GetFilesAsync(string absolutePath, string folderRelativePath)
         {
             throw new NotImplementedException();
         }
 
-        Task<List<string>> IStorage.GetFilesAsync(string absolutePath, string folderRelativePath)
+        Task<List<string>> IStorageService.GetFoldersAsync(string absolutePath, string folderRelativePath)
         {
             throw new NotImplementedException();
         }
 
-        Task<List<string>> IStorage.GetFoldersAsync(string absolutePath, string folderRelativePath)
+        Task<string> IStorageService.SaveFileAsync(byte[] data, string absolutePath, string fileName)
         {
             throw new NotImplementedException();
         }
 
-        Task<string> IStorage.SaveFileAsync(byte[] data, string absolutePath, string fileName)
-        {
-            throw new NotImplementedException();
-        }
-
-        Task<string> IStorage.SaveFileAsync(Stream stream, string absolutePath, string fileName)
+        Task<string> IStorageService.SaveFileAsync(Stream stream, string absolutePath, string fileName)
         {
             throw new NotImplementedException();
         }
