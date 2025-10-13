@@ -18,7 +18,7 @@ namespace AutoBazaar.Common.Domain.ValueObjects
         public int Year { get; private set; }
         public FuelType? FuelType { get; private set; }
         public int Seats { get; private set; }
-
+        public TransmitionType TransmitionType { get; set; }
         public VehicleSpecs(string make, string model, int year, string? trim = null, FuelType? fuel = null, int seats = 4)
         {
             if (string.IsNullOrWhiteSpace(make) || string.IsNullOrWhiteSpace(model)) throw new ArgumentException("make/model required");

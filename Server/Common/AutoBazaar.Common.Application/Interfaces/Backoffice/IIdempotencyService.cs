@@ -8,5 +8,8 @@ namespace AutoBazaar.Common.Application.Interfaces.Backoffice
 {
     public interface IIdempotencyService
     {
+        Task<IdempotencyResult> TryCreateIdempotencyAsync(string key, string payloadHash, CancellationToken ct = default);
+        Task StoreResultAsync(string key, string resultJson, CancellationToken ct = default);
+        Task<IdempotencyEntry?> GetEntryAsync(string key, CancellationToken ct = default);
     }
 }
