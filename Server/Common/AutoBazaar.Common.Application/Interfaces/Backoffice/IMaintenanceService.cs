@@ -1,4 +1,5 @@
-﻿using AutoBazaar.Common.Domain.ValueObjects;
+﻿using AutoBazaar.Common.Domain.DataTransferObjects.Backoffice;
+using AutoBazaar.Common.Domain.ValueObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,6 @@ namespace AutoBazaar.Common.Application.Interfaces.Backoffice
     {
         Task<MaintenanceRecordDto> CreateMaintenanceRecordAsync(CreateMaintenanceRequest request, AuditContext audit, CancellationToken ct = default);
         Task<IEnumerable<MaintenanceRecordDto>> GetMaintenanceForVehicleAsync(Guid vehicleId, CancellationToken ct = default);
-        Task ScheduleMaintenanceAsync(Guid vehicleId, DateRange window, CreateMaintenanceRequest request, AuditContext audit, CancellationToken ct = default);
+        Task ScheduleMaintenanceAsync(DateRange window, CreateMaintenanceRequest request, AuditContext audit, CancellationToken ct = default);
     }
 }

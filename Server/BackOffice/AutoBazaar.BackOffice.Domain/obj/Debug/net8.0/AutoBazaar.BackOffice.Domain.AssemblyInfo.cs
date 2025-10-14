@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoBazaar.BackOffice.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62940dc1110acdb18f6c776b7994f9f7ee473ee6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ac62cef642a286bba993b9833cbecf988a6e582")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoBazaar.BackOffice.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoBazaar.BackOffice.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

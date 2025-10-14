@@ -9,8 +9,8 @@ namespace AutoBazaar.Common.Application.Interfaces.Backoffice
 {
     public interface IReserveService
     {
-        Task AdjustReserveAsync(Guid ownerId, Money amountDelta, string reason, AuditContext audit, CancellationToken ct = default);
-        Task<ReserveSummaryDto> GetReserveSummaryAsync(Guid ownerId, CancellationToken ct = default);
-        Task ApplyReservePolicyAsync(ReservePolicyApplyRequest request, CancellationToken ct = default);
+        //Task AdjustReserveAsync(Guid ownerId, Money amountDelta, string reason, AuditContext audit, CancellationToken ct = default);
+        //Task<ReserveSummaryDto> GetReserveSummaryAsync(Guid ownerId, CancellationToken ct = default);
+        //Task ApplyReservePolicyAsync(ReservePolicyApplyRequest request, CancellationToken ct = default);
     }
 }

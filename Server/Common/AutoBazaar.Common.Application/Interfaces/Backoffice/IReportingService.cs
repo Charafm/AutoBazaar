@@ -10,8 +10,8 @@ namespace AutoBazaar.Common.Application.Interfaces.Backoffice
 {
     public interface IReportingService
     {
-        Task<KpiSnapshot> GetKpiSnapshotAsync(DateRange dateRange, CancellationToken ct = default);
-        Task<FileResult> ExportReconciliationAsync(ReconciliationExportRequest request, CancellationToken ct = default);
-        Task<DailyGmvReport> GetDailyGmvAsync(DateRange range, CancellationToken ct = default);
+        //Task<KpiSnapshot> GetKpiSnapshotAsync(DateRange dateRange, CancellationToken ct = default);
+        //Task<FileResult> ExportReconciliationAsync(ReconciliationExportRequest request, CancellationToken ct = default);
+        //Task<DailyGmvReport> GetDailyGmvAsync(DateRange range, CancellationToken ct = default);
     }
 }

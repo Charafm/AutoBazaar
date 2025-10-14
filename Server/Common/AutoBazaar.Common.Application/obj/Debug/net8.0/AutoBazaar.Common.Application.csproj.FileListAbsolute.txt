@@ -16,3 +16,5 @@ G:\repos\AutoBazaar\AutoBazaar\Server\Common\AutoBazaar.Common.Application\obj\D
 G:\repos\AutoBazaar\AutoBazaar\Server\Common\AutoBazaar.Common.Application\obj\Debug\net8.0\refint\AutoBazaar.Common.Application.dll
 G:\repos\AutoBazaar\AutoBazaar\Server\Common\AutoBazaar.Common.Application\obj\Debug\net8.0\AutoBazaar.Common.Application.pdb
 G:\repos\AutoBazaar\AutoBazaar\Server\Common\AutoBazaar.Common.Application\obj\Debug\net8.0\ref\AutoBazaar.Common.Application.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\Common\AutoBazaar.Common.Application\bin\Debug\net8.0\AutoBazaar.BackOffice.Domain.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\Common\AutoBazaar.Common.Application\bin\Debug\net8.0\AutoBazaar.BackOffice.Domain.pdb

@@ -15,7 +15,7 @@ namespace AutoBazaar.Common.Domain.DataTransferObjects.Backoffice
         public ContactInfo Contact { get; set; } = null!;
         public Address Address { get; set; } = null!;
         public BankAccountInfo? BankAccount { get; set; }
-        public KycStatus KycStatus { get; set; } = KycStatus.Pendings;
+        public KycStatus KycStatus { get; set; } = KycStatus.Pending;
         public decimal OwnerRiskRate { get; set; } // e.g., insurance risk factor
         public DefaultPayoutSchedule PayoutSchedule { get; set; }
         public bool IsActive { get; set; } = true;

@@ -1,4 +1,6 @@
-﻿using AutoBazaar.Common.Domain.Enums;
+﻿using AutoBazaar.Common.Application.Entities;
+using AutoBazaar.Common.Domain.DataTransferObjects.Backoffice;
+using AutoBazaar.Common.Domain.Enums;
 using AutoBazaar.Common.Domain.ValueObjects;
 using System;
 using System.Collections.Generic;

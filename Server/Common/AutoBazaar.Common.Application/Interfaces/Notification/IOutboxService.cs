@@ -8,9 +8,9 @@ namespace AutoBazaar.Common.Application.Interfaces.Notification
 {
     public interface IOutboxService
     {
-        Task EnqueueAsync(OutboxMessage message, CancellationToken ct = default);
-        Task MarkProcessedAsync(Guid outboxMessageId, DateTime processedOnUtc, CancellationToken ct = default);
-        Task<IEnumerable<OutboxMessage>> ReadPendingAsync(int maxBatch, CancellationToken ct = default);
+        //Task EnqueueAsync(OutboxMessage message, CancellationToken ct = default);
+        //Task MarkProcessedAsync(Guid outboxMessageId, DateTime processedOnUtc, CancellationToken ct = default);
+        //Task<IEnumerable<OutboxMessage>> ReadPendingAsync(int maxBatch, CancellationToken ct = default);
 
     }
 }

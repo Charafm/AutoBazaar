@@ -20,6 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\BackOffice\AutoBazaar.BackOffice.Domain\AutoBazaar.BackOffice.Domain.csproj" />
     <ProjectReference Include="..\AutoBazaar.Common.Domain\AutoBazaar.Common.Domain.csproj" />
   </ItemGroup>
 

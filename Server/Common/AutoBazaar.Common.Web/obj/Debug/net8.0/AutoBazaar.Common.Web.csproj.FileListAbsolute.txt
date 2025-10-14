@@ -18,3 +18,5 @@ G:\repos\AutoBazaar\AutoBazaar\Server\Common\AutoBazaar.Common.Web\bin\Debug\net
 G:\repos\AutoBazaar\AutoBazaar\Server\Common\AutoBazaar.Common.Web\bin\Debug\net8.0\en\AutoBazaar.Common.Domain.resources.dll
 G:\repos\AutoBazaar\AutoBazaar\Server\Common\AutoBazaar.Common.Web\bin\Debug\net8.0\fr\AutoBazaar.Common.Domain.resources.dll
 G:\repos\AutoBazaar\AutoBazaar\Server\Common\AutoBazaar.Common.Web\obj\Debug\net8.0\AutoBaza.242DDBD3.Up2Date
+G:\repos\AutoBazaar\AutoBazaar\Server\Common\AutoBazaar.Common.Web\bin\Debug\net8.0\AutoBazaar.BackOffice.Domain.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\Common\AutoBazaar.Common.Web\bin\Debug\net8.0\AutoBazaar.BackOffice.Domain.pdb

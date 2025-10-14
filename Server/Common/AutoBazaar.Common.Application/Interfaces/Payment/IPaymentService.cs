@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AutoBazaar.Common.Domain.DataTransferObjects.Backoffice;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

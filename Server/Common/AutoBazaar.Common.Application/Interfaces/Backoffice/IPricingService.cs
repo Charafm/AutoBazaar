@@ -1,4 +1,5 @@
-﻿using AutoBazaar.Common.Domain.ValueObjects;
+﻿using AutoBazaar.Common.Domain.DataTransferObjects.Backoffice;
+using AutoBazaar.Common.Domain.ValueObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,8 +10,8 @@ namespace AutoBazaar.Common.Application.Interfaces.Backoffice
 {
     public interface IPricingService
     {
-        Task<PricingSnapshot> ComputePriceAsync(PriceRequest request, CancellationToken ct = default);
-        Task<PromotionApplicationResult> EvaluatePromotionsAsync(PromotionEvaluationRequest request, CancellationToken ct = default);
+       // Task<PricingSnapshot> ComputePriceAsync(PriceRequest request, CancellationToken ct = default);
+       Task<PromotionApplicationResult> EvaluatePromotionsAsync(PromotionEvaluationRequest request, CancellationToken ct = default);
 
     }
 }

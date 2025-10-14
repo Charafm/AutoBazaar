@@ -9,8 +9,8 @@ namespace AutoBazaar.Common.Application.Interfaces.Payment
 {
     public interface IPaymentReconciliationService
     {
-        Task<ReconciliationReport> ReconcilePspFileAsync(Stream fileStream, string provider, CancellationToken ct = default);
-        Task CreateAdjustmentAsync(ReconciliationAdjustmentRequest request, CancellationToken ct = default);
-        Task<ReconciliationSummaryDto> GetLastReconciliationAsync(string provider, DateRange range, CancellationToken ct = default);
+        //Task<ReconciliationReport> ReconcilePspFileAsync(Stream fileStream, string provider, CancellationToken ct = default);
+        //Task CreateAdjustmentAsync(ReconciliationAdjustmentRequest request, CancellationToken ct = default);
+        //Task<ReconciliationSummaryDto> GetLastReconciliationAsync(string provider, DateRange range, CancellationToken ct = default);
     }
 }

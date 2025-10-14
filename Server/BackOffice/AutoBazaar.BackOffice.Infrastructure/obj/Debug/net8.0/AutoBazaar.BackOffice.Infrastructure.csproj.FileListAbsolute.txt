@@ -20,3 +20,5 @@ G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Infrastru
 G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Infrastructure\bin\Debug\net8.0\fr\AutoBazaar.Common.Domain.resources.dll
 G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Infrastructure\obj\Debug\net8.0\AutoBazaar.BackOffice.Infrastructure.csproj.AssemblyReference.cache
 G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Infrastructure\obj\Debug\net8.0\AutoBaza.9CDCB9C5.Up2Date
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Infrastructure\bin\Debug\net8.0\AutoBazaar.BackOffice.Domain.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Infrastructure\bin\Debug\net8.0\AutoBazaar.BackOffice.Domain.pdb

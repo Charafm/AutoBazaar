@@ -160,3 +160,5 @@ G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Web\bin\D
 G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Web\bin\Debug\net8.0\AutoBazaar.Common.Application.pdb
 G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Web\bin\Debug\net8.0\en\AutoBazaar.Common.Domain.resources.dll
 G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Web\bin\Debug\net8.0\fr\AutoBazaar.Common.Domain.resources.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Web\bin\Debug\net8.0\AutoBazaar.BackOffice.Domain.dll
+G:\repos\AutoBazaar\AutoBazaar\Server\BackOffice\AutoBazaar.BackOffice.Web\bin\Debug\net8.0\AutoBazaar.BackOffice.Domain.pdb
